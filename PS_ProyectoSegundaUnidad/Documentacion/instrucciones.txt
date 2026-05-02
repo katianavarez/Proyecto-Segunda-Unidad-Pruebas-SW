@@ -1,0 +1,23 @@
+---------- PROYECTO PRUEBAS AUTOMATIZADAS ----------
+
+Integrantes:
+- Katia Ximena Návarez Espinoza
+- Daniel Buelna Andujo
+- Jesús Rodrigo Villegas Arguelles
+- Freddy Ali Castro Roman
+- Jesus Octavio Amarillas Amaya
+
+
+-------------- COMO CORRER LAS PRUEBAS --------------
+
+Abrir una terminal en la carpeta del proyecto y escribir:
+   cd Tests
+Y después:
+   py -m robot -d ../Results test.robot
+Los resultados quedan en la carpeta Results
+
+
+-------------- COMPLICACIONES/ERRORES --------------
+
+1. Modo Incognito
+    En algunas pruebas el navegador abre en modo incognito.
